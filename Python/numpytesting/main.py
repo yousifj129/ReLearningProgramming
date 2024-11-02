@@ -5,6 +5,7 @@ import numpy.random as random
 a = np.random.rand(10)
 
 def slope(m):
+    # only works for linear equations
     return (m[1,1]-m[0,1])/(m[1,0]-m[0,0])
 # considering that column 0 is x and column 1 is y
 def main():
