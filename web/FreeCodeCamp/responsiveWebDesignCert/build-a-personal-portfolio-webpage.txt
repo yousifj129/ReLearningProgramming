@@ -1,0 +1,72 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+<body>
+  <nav id="navbar">
+    Links
+    <ul>
+      <li><a href="#welcome-section">Welcome</a> </li>
+      <li><a href="#projects">Projects</a> </li>
+    </ul>
+  </nav>
+  <section id="welcome-section">
+    <h1>Welcome</h1>
+    <h3>This is my portfolio</h3>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <p class="project-tile"></p>
+    <a href="https://github.com/yousifj129" id="profile-link" target="_blank">All my projects</a>
+    </section>
+</body>
+<style>
+
+#navbar {
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: var(--main-red);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
+  z-index: 10;
+}
+
+.nav-list {
+  display: flex;
+  margin-right: 2rem;
+}
+
+@media (max-width: 28.75em) {
+  .nav {
+    justify-content: center;
+  }
+
+  .nav-list {
+    margin: 0 1rem;
+  }
+}
+
+.nav-list a {
+  display: block;
+  font-size: 2.2rem;
+  padding: 2rem;
+}
+
+.nav-list a:hover {
+  background: var(--main-blue);
+}
+  </style>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
