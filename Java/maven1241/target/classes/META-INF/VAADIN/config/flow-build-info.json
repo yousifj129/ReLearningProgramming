@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "D:\\Developer\\ReLearningProgramming\\Java\\maven1241",
+  "node.version": "v18.13.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "D:\\Developer\\ReLearningProgramming\\Java\\maven1241\\target\\frontend",
+  "frontendFolder": "D:\\Developer\\ReLearningProgramming\\Java\\maven1241\\frontend",
+  "connect.javaSourceFolder": "D:\\Developer\\ReLearningProgramming\\Java\\maven1241\\src\\main\\java",
+  "javaResourceFolder": "D:\\Developer\\ReLearningProgramming\\Java\\maven1241\\src\\main\\resources",
+  "connect.applicationProperties": "D:\\Developer\\ReLearningProgramming\\Java\\maven1241\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "D:\\Developer\\ReLearningProgramming\\Java\\maven1241\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "D:\\Developer\\ReLearningProgramming\\Java\\maven1241\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
